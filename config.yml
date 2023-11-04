@@ -22,7 +22,7 @@ menu:
           weight: 3
 
 params:
-    description: "My main motivation in studying Deep Learning lies not only in the field’s promising application potentials but also in its underlying technical and scientific depth. I am currently a PhD student at Athens University of Economics and Business, focusing on multi-step textual entailment, as well as a member of the AUEB's NLP Group, that is part of the Department of Informatics, under the supervision of Prof. Ion Androutsopoulos. I am also a fresh graduate from the MSc in Machine Learning at KTH Royal Institute of Technology, the most prestigeous technical university in Sweden, known for its continuing excellence in computer science and the fact that teaching is informed by research towards the development of advanced machine learning systems."
+    description: "My main motivation in studying Deep Learning lies not only in the field’s promising application potentials but also in its underlying technical and scientific depth. I am currently a PhD student at Athens University of Economics and Business (AUEB), focusing on multi-step textual entailment, as well as a member of the AUEB's NLP Group, that is part of the Department of Informatics, under the supervision of Prof. Ion Androutsopoulos. I am also a fresh graduate from the MSc in Machine Learning at KTH Royal Institute of Technology, the most prestigeous technical university in Sweden, known for its continuing excellence in computer science and the fact that teaching is informed by research towards the development of advanced machine learning systems."
     author: Georgios Moschovis
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Georgios Moschovis
-          subtitle: "My main motivation in studying Deep Learning lies not only in the field’s promising application potentials but also in its underlying technical and scientific depth. I am currently a PhD student at Athens University of Economics and Business, focusing on multi-step textual entailment, as well as a member of the AUEB's NLP Group, that is part of the Department of Informatics, under the supervision of Prof. Ion Androutsopoulos. I am also a fresh graduate from the MSc in Machine Learning at KTH Royal Institute of Technology, the most prestigeous technical university in Sweden, known for its continuing excellence in computer science and the fact that teaching is informed by research towards the development of advanced machine learning systems."
+          subtitle: "My main motivation in studying Deep Learning lies not only in the field’s promising application potentials but also in its underlying technical and scientific depth. I am currently a PhD student at Athens University of Economics and Business (AUEB), focusing on multi-step textual entailment, as well as a member of the AUEB's NLP Group, that is part of the Department of Informatics, under the supervision of Prof. Ion Androutsopoulos. I am also a fresh graduate from the MSc in Machine Learning at KTH Royal Institute of Technology, the most prestigeous technical university in Sweden, known for its continuing excellence in computer science and the fact that teaching is informed by research towards the development of advanced machine learning systems."
           imageUrl: "georgios.jpeg"
           imageWidth: 160
           imageHeight: 160
