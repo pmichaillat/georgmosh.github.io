@@ -1,28 +1,4 @@
----
-title: "NeuralDynamicsLab at ImageCLEFmedical 2022" 
-date: 2022-05-09
-tags: ["machine learning","deep learning","natural language processing", "computer vision", "biomedical applications"
-"neural networks", "speech and language technology", "generative deep networks", "convolutional neural networks", "text generation", "information retrieval",
-"diagnostic captioning", "image captioning", "concept prediction", "classification", "image encoders", "transformers",
-"encoder-Decoder architecture", "abstractive summarization"]
-author: ["Georgios Moschovis", "Erik Fransén"]
-description: "With our participation in ImageCLEFmedical 2022 Caption evaluation campaign, we have attempted to address both concept
-detection and caption prediction tasks by developing baselines based on Deep Neural Networks; including
-image encoders, classifiers and text generators." 
-summary: "With our participation in ImageCLEFmedical 2022 Caption evaluation campaign, we have attempted to address both concept
-detection and caption prediction tasks by developing baselines based on Deep Neural Networks; including
-image encoders, classifiers and text generators. Our group, NeuralDynamicsLab at KTH Royal Institute of
-Technology, within the school of Electrical Engineering and Computer Science, ranked 4th in the former
-and 5th in the latter task." 
-cover:
-    image: "paper2.png"
-    alt: "Overview of our architecture"
-    relative: false
-editPost:
-    URL: "https://ceur-ws.org/Vol-3180/paper-112.pdf"
-    Text: "CLEF2022 Working Notes"
 
----
 
 ---
 
