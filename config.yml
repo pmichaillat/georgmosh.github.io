@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://georgmosh.github.io"
 title: Prof. Name
 paginate: 20
 theme: PaperMod
@@ -19,10 +19,7 @@ menu:
           weight: 2
         - name: Data
           url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+          weight: 3
 
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
@@ -50,12 +47,12 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Georgios Moschovis
+          subtitle: "I am currently a PhD student at Athens University of Economics and Business, focusing on multi-step textual entailment, as well as a member of the AUEB's NLP Group, that is part of the Department of Informatics, under the supervision of Prof. Ion Androutsopoulos. I am also a fresh graduate from the MSc in Machine Learning at KTH Royal Institute of Technology, the most prestigeous technical university in Sweden, known for its continuing excellence in computer science and the fact that teaching is informed by research towards the development of advanced machine learning systems."
+          imageUrl: "georgios.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Georgios Moschovis
           buttons:
             - name: Papers
               url: papers/
@@ -63,8 +60,8 @@ consequat."
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: Department
+              url: https://www.dept.aueb.gr/el/cs/el/PhDStudents
             - name: Tags
               url: tags/
             - name: Archive
@@ -73,21 +70,21 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:geomos@aueb.gr
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=ywuvu9wAAAAJ&hl=en
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@georgiosmoschovis2545
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/georgmosh
+        - name: Department
+          url: https://www.dept.aueb.gr/el/cs/el/PhDStudents
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/GMoschovis
 
     assets:
         disableHLJS: true
@@ -96,7 +93,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Georgios Moschovis"
       icon: favicon.ico
       iconHeight: 18
 
