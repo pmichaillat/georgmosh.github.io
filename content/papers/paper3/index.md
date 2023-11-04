@@ -1,6 +1,6 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
+title: "AUEB NLP Group at ImageCLEFmedical Caption 2023" 
+date: 2023-18-09
 tags: ["machine learning","deep learning","natural language processing", "computer vision", "biomedical applications", "biomedical images", "convolutional neural networks", "multi-Label classification", "caption generation", "generative models", "transformers"]
 author: ["Panagiotis Kaliosis", "Georgios Moschovis", "Foivos Charalampakos", "John Pavlopoulos", "Ion Androutsopoulos"]
 description: "This article describes the methods that the AUEB NLP Group experimented with during its participation
