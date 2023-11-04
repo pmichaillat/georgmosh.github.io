@@ -1,17 +1,26 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+title: "NeuralDynamicsLab at ImageCLEFmedical 2022" 
+date: 2022-05-09
+tags: ["machine learning","deep learning","natural language processing", "computer vision", "biomedical applications"
+"neural networks", "speech and language technology", "generative deep networks", "convolutional neural networks", "text generation", "information retrieval",
+"diagnostic captioning", "image captioning", "concept prediction", "classification", "image encoders", "transformers",
+"encoder-Decoder architecture", "abstractive summarization"]
+author: ["Georgios Moschovis", "Erik Fransén"]
+description: "With our participation in ImageCLEFmedical 2022 Caption evaluation campaign, we have attempted to address both concept
+detection and caption prediction tasks by developing baselines based on Deep Neural Networks; including
+image encoders, classifiers and text generators." 
+summary: "With our participation in ImageCLEFmedical 2022 Caption evaluation campaign, we have attempted to address both concept
+detection and caption prediction tasks by developing baselines based on Deep Neural Networks; including
+image encoders, classifiers and text generators. Our group, NeuralDynamicsLab at KTH Royal Institute of
+Technology, within the school of Electrical Engineering and Computer Science, ranked 4th in the former
+and 5th in the latter task." 
 cover:
     image: "paper2.png"
-    alt: "Image caption"
+    alt: "Overview of our architecture"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    URL: "https://ceur-ws.org/Vol-3180/paper-112.pdf"
+    Text: "CLEF2022 Working Notes"
 
 ---
 
@@ -20,18 +29,25 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Diagnostic Captioning is described as the automatic text generation from a collection of X-RAY images
+and it can assist inexperienced doctors and radiologists to reduce clinical errors or help experienced
+professionals to increase their productivity. Therefore, tools that would help doctors and radiologists
+produce higher quality reports in less time could be of high interest for medical imaging departments, as
+well as significantly impact deep learning research within the biomedical domain. With our participation
+in ImageCLEFmedical 2022 Caption evaluation campaign, we have attempted to address both concept
+detection and caption prediction tasks by developing baselines based on Deep Neural Networks; including
+image encoders, classifiers and text generators. Our group, NeuralDynamicsLab at KTH Royal Institute of
+Technology, within the school of Electrical Engineering and Computer Science, ranked 4th in the former
+and 5th in the latter task.
 
 ---
 
-##### Figure X: Figure caption
+##### Figure: Overview of our architecture
 
 ![](paper2.png)
 
@@ -39,23 +55,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+G. Moschovis, E. Fransén, Neuraldynamicslab at imageclef medical 2022, in: CLEF2022
+Working Notes, CEUR Workshop Proceedings, CEUR-WS.org, Bologna, Italy, 2022. https://ceur-ws.org/Vol-3180/paper-112.pdf.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@inproceedings{moschovis2022,
+author = {Moschovis, Georgios and Fransén, Erik},
+title = {NeuralDynamicsLab at ImageCLEF Medical 2022},
+booktitle = {CLEF2022 Working Notes},
+series = {{CEUR} Workshop Proceedings},
+year = {2022},
+volume = {},
+publisher = {CEUR-WS.org },
+pages = {},
+month = {September 5-8},
+address = {Bologna, Italy}
+}
 ```
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
++ [Poster presentation](poster_camera_ready_90_180.pdf)
++ [My master thesis; extending the work of this paper](Thesis_Moschovis_Georgios-v6.pdf)
 

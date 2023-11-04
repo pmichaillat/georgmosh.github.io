@@ -1,17 +1,18 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
+title: "Weakly-Supervised Semantic Segmentation via Transformer Explainability" 
+date: 2022-05-23
+tags: ["machine learning","deep learning","semantic segmentation", "computer vision"]
+author: "Ioannis Athanasiadis, Georgios Moschovis, Alexander Tuoma"
+description: "We combine classic back-propagation recipe through the chain rule with relevance
+propagation, another technique that is based on Deep Taylor Decomposition, to perform weakly supervised semantic segmentation. Published in ReScience Journal, 2021." 
 summary: "This paper shows things using various techniques and data." 
 cover:
-    image: "paper1.png"
-    alt: "Image caption"
+    image: "TransformerInterpretability.png"
+    alt: "Indicative selection of qualitative results."
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+    URL: "https://doi.org/10.5281/zenodo.6574631"
+    Text: "ReScience Journal"
 
 ---
 
@@ -27,37 +28,37 @@ editPost:
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Transformers have been an object of extensive research among deep generative
+models during the last few years. Precisely, they became a state-of-the-art model
+for Natural Language Processing (NLP) tasks in 2017 and adopted the mechanism
+of attention, weighing the influence of different parts of the input data. In this
+project, we address the use of transformers in a different domain, computer vision,
+to perform weakly supervised semantic segmentation. Towards this goal, we
+combine classic back-propagation recipe through the chain rule with relevance
+propagation, another technique that is based on Deep Taylor Decomposition, to
+achieve significant performance, comparable to state-of-the-art CNN architectures,
+using transformers. Last but not least, we incorporate the concept of pixel affinities,
+which further improves performance in terms of Intersection over Union (IoU). All
+code used for our experiments is available on GitHub.
 
 ---
 
-##### Figure X: Figure caption
+##### Figure: Indicative selection of qualitative results.
 
-![](paper1.png)
+![](TransformerInterpretability.png)
 
 ---
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+I. Athanasiadis, G. Moschovis, A. Tuoma, Weakly-Supervised Semantic Segmentation via
+Transformer Explainability, in: ML Reproducibility Challenge 2021 (Fall Edition), 2022. https://doi.org/10.5281/zenodo.6574631.
 
 ```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@inproceedings{Athanasiadis:interpretability,
+title={{Weakly-Supervised Semantic Segmentation via Transformer Explainability}},
+author={Ioannis Athanasiadis and Georgios Moschovis and Alexander Tuoma},
+booktitle={ML Reproducibility Challenge 2021 (Fall Edition)},
+year={2022},
+}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
-
